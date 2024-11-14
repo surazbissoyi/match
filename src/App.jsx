@@ -58,7 +58,7 @@ export default function App() {
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-pink-500 to-purple-600 text-white p-4">
       <div className="text-center">
         <h1 className="text-3xl sm:text-7xl font-bold mb-6 animate-fade-in-up">
-          stranger<span className="text-pink-300">match.in</span>
+          Stranger<span className="text-pink-300">{" "}Match</span>
         </h1>
         <p className="text-lg sm:text-2xl mb-8 animate-fade-in-up animation-delay-200 font-semibold">
           Where strangers become soulmates...
