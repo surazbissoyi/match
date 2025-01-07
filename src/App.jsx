@@ -12,7 +12,7 @@ export default function App() {
   const [submissionStatus, setSubmissionStatus] = useState('');
 
   useEffect(() => {
-    const targetDate = new Date('2025-2-31T00:00:00');
+    const targetDate = new Date('2025-02-31T00:00:00');
 
     const interval = setInterval(() => {
       const now = new Date();
